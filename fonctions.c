@@ -10,7 +10,7 @@
 void title()
 {
        printf("\t*******************************************\n");
-       printf("\t*               GROUPE 41 :               *\n");
+       printf("\t*                @DANOFRED0               *\n");
        printf("\t*           PROJET CALCULATRICE           *\n");
        printf("\t*        SCIENTIFIQUE EN LANGAGE C        *\n");
        printf("\t*******************************************\n\n");
