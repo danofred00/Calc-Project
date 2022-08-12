@@ -4,7 +4,12 @@
 #include <errno.h>
 #include "fonctions.h"
 
-int main()
+/**
+ * @file main.c
+ *@autor Danofred0
+*/
+
+int main(int argc, char *argv[])
 {
        int choice, div_choice, ln_choice, eqt_choice;
 
